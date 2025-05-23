@@ -115,7 +115,7 @@ body {
 
 .back>p {
     font-family: 'Times New Roman', Times, serif;
-    font-size:clamp(10px,2vw,24px);
+    font-size:clamp(12px,2vw,18px);
     height: 35%;
     width: 80%;
     padding:10px;
