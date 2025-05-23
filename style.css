@@ -45,8 +45,8 @@ body {
 .card {
     margin-top: 50px;
     border-radius: 25px;
-    height: clamp(100px,100%,500px);
-    width: clamp(25px,20%,350px);
+    height: clamp(100px,100%,450px);
+    width: clamp(25px,20%,300px);
     transform-style: preserve-3d;
     transition: all 1s ease;
 
