@@ -46,7 +46,7 @@ body {
     margin-top: 50px;
     border-radius: 25px;
     height: clamp(100px,100%,450px);
-    width: clamp(25px,20%,300px);
+    width: clamp(25px,60%,250px);
     transform-style: preserve-3d;
     transition: all 1s ease;
 
